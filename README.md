@@ -1,8 +1,14 @@
+DreamFactory is a free, open source REST API platform for mobile, web, and IoT applications. 
+
+* Website: [www.dreamfactory.com](http://www.dreamfactory.com)
+* Documentation: [www.dreamfactory.com/resources](http://www.dreamfactory.com/resources)
+
 Supported tags and respective `Dockerfile links
 
 - [`1.9.2`, `1.9`, `latest` (*1.9/Dockerfile*)](https://github.com/dreamfactorysoftware/dsp-docker/blob/1.9.2/Dockerfile)
 
 # Setup
+
 ## Get Docker
 - See: [https://docs.docker.com/installation](https://docs.docker.com/installation)
 
